@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=New Video Project
+GenericName=Video Project Creator
+Comment=Create a ready-to-edit DaVinci Resolve Studio project
+Exec="@EXEC@"
+Icon=applications-multimedia
+Terminal=false
+Categories=AudioVideo;Video;
+StartupNotify=true
+StartupWMClass=video-project-creator
